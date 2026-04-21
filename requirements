@@ -1,0 +1,11 @@
+pandas>=1.3.0
+matplotlib>=3.4.0
+numpy>=1.21.0
+
+
+运行方式
+# 安装依赖
+pip install -r requirements.txt
+
+# 运行主程序
+python src/main.py
